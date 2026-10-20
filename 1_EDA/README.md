@@ -1,6 +1,6 @@
 # Exploratory Data Analysis w/ SQL: Job Market Analytics
 
-![Project 1 Overview](../Images/images.png)
+![Project 1 Overview](../Images/Project_1.png)
 A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**.
 
 # Executive Summary
@@ -33,7 +33,7 @@ Job market analysts need to answer questions like:
 
 This project analyzes a **data warehouse** built using a star schema design. The warehouse structure consists of:
 
-![This project analyzes a data warehouse built using a star schema design. The warehouse structure consists of:](../Images/images_0.png)
+![This project analyzes a data warehouse built using a star schema design. The warehouse structure consists of:](../Images/Data_Wearhouse_1.png)
 
 - **Fact Table:** `job_postings_fact` - Central table containing job posting details (job titles, locations, salaries, dates, etc.)
 
