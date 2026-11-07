@@ -1,3 +1,4 @@
+    -- duckdb md:dw_marts -c ".read build_dw_marts.sql"
     --  duckdb dw_marts.duckdb -c ".read build_dw_marts.sql"
     
     

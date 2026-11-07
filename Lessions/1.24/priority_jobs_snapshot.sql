@@ -113,6 +113,8 @@ WHEN NOT MATCHED BY SOURCE THEN DELETE;
 FROM main.priority_jobs_snapshot
 GROUP BY job_title_short
 ORDER BY job_count DESC;
+
+
 -- DESCRIBE main.priority_jobs_snapshot;
 
 SELECT *
