@@ -59,7 +59,11 @@ By querying across these interconnected tables, I extracted insights about skill
 
 ### Query Structure
 
-1.**[`Top Demands Skills`](./01_Top_demanded_skills.sql)** – Identifies the 10 most in-demand skills for remote data engineer positions 2.**[`Top Paying Skills`](./02_Top_Paying_skills.sql)** – Analyzes the 25 highest-paying skills with salary and demand metrics 3.**[` Optimal Skills`](./03_Optimal_skills.sql)** – Calculates an optimal score using natural log of demand combined with median salary to identify the most valuable skills to learn
+1.**[`Top Demands Skills`](./01_Top_demanded_skills.sql)** – Identifies the 10 most in-demand skills for remote data engineer positions
+
+2.**[`Top Paying Skills`](./02_Top_Paying_skills.sql)** – Analyzes the 25 highest-paying skills with salary and demand metrics
+
+3.**[` Optimal Skills`](./03_Optimal_skills.sql)** – Calculates an optimal score using natural log of demand combined with median salary to identify the most valuable skills to learn
 
 ## Key Insights
 
